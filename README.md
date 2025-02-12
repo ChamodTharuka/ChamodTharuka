@@ -45,11 +45,21 @@ const aboutMe = {
 
 ## 🏆 Achievements
 
-```text
-🌟 Contributed to X open-source projects
-📚 Published Y technical articles
-🎓 Certified in multiple cloud platforms
-```
+- 🎓 Certified as a **Secure Software Developer** from **CICRA Campus** in collaboration with **SLASSCOM (Sri Lanka Association for Software and Services Companies)**.
+- 🏆 Our team conquered the **LSEG Code & Conquer Hackathon**, proudly clinching **1st Place**!
+- 🌟 Contributed to X open-source projects.
+- 📚 Published Y technical articles.
+
+## 🎯 Leadership Skills
+
+As an **Associate Lead - Web Development**, I mentor and manage a diverse team of:
+
+- **Frontend Developers**
+- **Full Stack Developers**
+- **UI/UX Designers**
+- **Intern Developers**
+
+I provide training and guidance to enhance their skills, ensuring they stay updated with the latest industry trends and best practices. My leadership fosters a collaborative environment that drives innovation and excellence.
 
 ## 🎥 Videography & Photography
 
@@ -65,7 +75,7 @@ const aboutMe = {
   <a href="https://www.linkedin.com/in/chamod-tharuka-3b377618b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
- <a href="https://www.facebook.com/profile.php?id=100007173557966">
+  <a href="https://www.facebook.com/profile.php?id=100007173557966">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.instagram.com/chamosh.tharuka/">
