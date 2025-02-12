@@ -10,7 +10,7 @@ const aboutMe = {
   role: "Associate Lead - Web Development at Enfection (Pvt) Ltd",
   languages: ["PHP", "JavaScript", "Node.js", "React.js", "Python"],
   frameworks: ["WordPress", "Laravel"],
-  tools: ["Docker", "AWS"],
+  DevOps & Tools: ["Docker", "AWS"],
   hobbies: ["Traveling", "Videography", "Photography"],
   funFact: "I capture the world through my lens 📸"
 };
