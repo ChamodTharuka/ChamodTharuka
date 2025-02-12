@@ -75,5 +75,3 @@ const aboutMe = {
 
 ---
 <p align="center">📫 Open to collaborating on innovative projects!</p>
-
-> **Note:** Replace `YOUR_USERNAME` with your GitHub username and `YOUR_PROFILE` with your respective profile links.
