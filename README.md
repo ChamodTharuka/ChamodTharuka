@@ -7,7 +7,7 @@
 
 ```javascript
 const aboutMe = {
-  role: "Associate Lead - Web Development at Enfection (Pvt) Ltd",
+  role: "Lead - Web Development at Enfection (Pvt) Ltd",
   languages: ["PHP", "JavaScript", "Node.js", "React.js", "Python"],
   frameworks: ["WordPress", "Laravel"],
   DevOps: ["Docker", "AWS"],
