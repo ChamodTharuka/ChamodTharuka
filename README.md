@@ -1,16 +1,18 @@
 # ✨ Chamod Tharuka Hewawasam
 
-![Role](https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Kaduwela,%20Sri%20Lanka-green?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Tech%20Lead%20%26%20Full%20Stack%20Developer-blue?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-AWS%20%7C%20CI%2FCD%20%7C%20Docker-orange?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Sri%20Lanka-green?style=for-the-badge)
 
 ## 👋 About Me
 
 ```javascript
 const aboutMe = {
-  role: "Lead - Web Development at Enfection (Pvt) Ltd",
+  role: "Tech Lead — Web Development & DevOps @ Enfection (Pvt) Ltd",
   languages: ["PHP", "JavaScript", "Node.js", "React.js", "Python"],
   frameworks: ["WordPress", "Laravel"],
-  DevOps: ["Docker", "AWS"],
+  devOps: ["Docker", "AWS EC2/RDS", "GitHub Actions", "CI/CD", "Linux", "Grafana"],
+  security: ["CrowdStrike Falcon", "Azure AD SSO", "Palo Alto Networks", "Arcon PAM"],
   hobbies: ["Traveling", "Videography", "Photography"],
   funFact: "I capture the world through my lens 📸"
 };
@@ -38,10 +40,7 @@ const aboutMe = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChamodTharuka&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamodTharuka&theme=radical" alt="GitHub Streak" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ChamodTharuka&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamodTharuka&theme=radical" alt="GitHub Streak" /> </div>
 
 ## 🏆 Achievements
 
